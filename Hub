@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IcyMod/Host/main/Hub"))()
+<<< Hub >>> loadstring(game:HttpGet("https://raw.githubusercontent.com/IcyMod/Host/main/Hub"))() <<< COPY PASTE INTO EXECUTER >>>
 
 
 -- Script
