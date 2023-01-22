@@ -4,3 +4,18 @@ loadstring(get:HttpGet("https://raw.githubusercontent.com/IcyMod/Host/main/Hub")
 -- Script
 
 -- Updated UI
+
+-- Arsenal is Executed Manually meaning you have to get the script and actually execute it
+-- Arsenal Script > loadstring(game:HttpGet(('https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/Arsenal2'),true))()
+-- Updated UI Library!
+-- More Scripts coming soon! 👍 
+
+
+
+
+
+
+
+
+
+
