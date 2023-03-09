@@ -14,24 +14,24 @@
 
 
 Games Supported With this script
---Weaponry - Working 🟢
---Arsenal - Working 🟢
---Big PaintBall - Working 🟢
---No-Scope Arcade - Working 🟢
---Phantom Forces - Working 🟢
---Rush Point - Working 🟢
---Energy Assault - Not Working 🔴
---Anime Racing Clicker - Not Working 🔴
---Anime Clicker Fight - Working 🟢
---Race Clicker - Working 🟢
---Kick Off - Working 🟢
---Slap Battles -- New - Fixing 🔨
---Strucid -- New - Working 🟢
---Da Hood -- New - Fixing 🔨
---Bedwars -- New - Working 🟢
---Bad Business -- New - Fixing 🔨
---Build A Boat - Working 🟢
---Prison Life - Has Not Tested ❌
+--Weaponry - Working 🚫
+--Arsenal - Working 🚫
+--Big PaintBall - Working 🚫
+--No-Scope Arcade - Working 🚫
+--Phantom Forces - Working 🚫
+--Rush Point - Working 🚫
+--Energy Assault - Not Working 🚫
+--Anime Racing Clicker - Not Working 🚫
+--Anime Clicker Fight - Working 🚫
+--Race Clicker - Working 🚫
+--Kick Off - Working 🚫
+--Slap Battles -- New - Fixing 🚫
+--Strucid -- New - Working 🚫
+--Da Hood -- New - Fixing 🚫
+--Bedwars -- New - Working 🚫
+--Bad Business -- New - Fixing 🚫
+--Build A Boat - Working 🚫
+--Prison Life - 🚫
 
 -- Added Hubs So more then 17 games
 -- Its about 70 to 80 games
@@ -43,6 +43,7 @@ Working = 🟢
 Not Working = 🔴
 Fixing = 🔨
 Has Not Tested = ❌
+Down = 🚫 - meaning the scripts are being tested
 
 
 
